@@ -32,5 +32,5 @@ The **Random Password Generator** is a simple GUI application built using Python
 
 ## Screenshots
 ### Main Interface
-![Main Interface](Assets/Screenshot 2024-11-26 013838.png)
+![Main Interface](https://github.com/rishav0821/Random-Password-Generator/blob/main/Assets/Screenshot%202024-11-26%20013838.png)
 
