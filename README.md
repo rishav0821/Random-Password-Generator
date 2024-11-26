@@ -34,3 +34,39 @@ The **Random Password Generator** is a simple GUI application built using Python
 ### Main Interface
 ![Main Interface](https://github.com/rishav0821/Random-Password-Generator/blob/main/Assets/Screenshot%202024-11-26%20013838.png)
 
+### Working
+![Working](https://github.com/rishav0821/Random-Password-Generator/blob/main/Assets/Screenshot%202024-11-26%20013902.png)
+
+### Invalid input
+![Invalid input](https://github.com/rishav0821/Random-Password-Generator/blob/main/Assets/Screenshot%202024-11-26%20013928.png)
+## Prerequisites
+- Python 3.x
+- `tkinter` (comes pre-installed with Python)
+
+## Future Enhancements
+- Add customization options for character types (e.g., include/exclude special characters).
+- Save generated passwords to a file securely.
+- Add a dark mode feature for the interface.
+
+## Contributing
+Contributions are welcome! To contribute:
+1. Fork the repository.
+2. Create a new branch:
+    ```bash
+    git checkout -b feature-name
+    ```
+3. Commit your changes:
+    ```bash
+    git commit -m "Add feature"
+    ```
+4. Push to the branch:
+    ```bash
+    git push origin feature-name
+    ```
+5. Create a pull request.
+
+## Author
+Developed by [Rishav](https://github.com/rishav0821).
+
+---
+
